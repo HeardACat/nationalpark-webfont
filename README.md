@@ -1,6 +1,4 @@
-# nationalpark-webfont
-
-https://heardacat.github.io/nationalpark-webfont/
+[![demo](demo.png)](https://heardacat.github.io/nationalpark-webfont/)
 
 **How to use**
 
