@@ -1,0 +1,51 @@
+
+
+@font-face {
+	font-family: 'NationalPark Web';
+    font-weight: 200;
+    font-style: normal;
+	src: url('woff2/NationalPark-ExtraLight.woff2') format('woff2'), url('woff/NationalPark-ExtraLight.woff') format('woff')
+}
+
+@font-face {
+	font-family: 'NationalPark Web';
+    font-weight: 300;
+    font-style: normal;
+	src: url('woff2/NationalPark-Light.woff2') format('woff2'), url('woff/NationalPark-Light.woff') format('woff')
+}
+
+@font-face {
+	font-family: 'NationalPark Web';
+    font-weight: 400;
+    font-style: normal;
+	src: url('woff2/NationalPark-Regular.woff2') format('woff2'), url('woff/NationalPark-Regular.woff') format('woff')
+}
+
+@font-face {
+	font-family: 'NationalPark Web';
+    font-weight: 500;
+    font-style: normal;
+	src: url('woff2/NationalPark-Medium.woff2') format('woff2'), url('woff/NationalPark-Medium.woff') format('woff')
+}
+
+@font-face {
+	font-family: 'NationalPark Web';
+    font-weight: 600;
+    font-style: normal;
+	src: url('woff2/NationalPark-SemiBold.woff2') format('woff2'), url('woff/NationalPark-SemiBold.woff') format('woff')
+}
+
+@font-face {
+	font-family: 'NationalPark Web';
+    font-weight: 700;
+    font-style: normal;
+	src: url('woff2/NationalPark-Bold.woff2') format('woff2'), url('woff/NationalPark-Bold.woff') format('woff')
+}
+
+@font-face {
+	font-family: 'NationalPark Web';
+    font-weight: 800;
+    font-style: normal;
+	src: url('woff2/NationalPark-ExtraBold.woff2') format('woff2'), url('woff/NationalPark-ExtraBold.woff') format('woff')
+}
+
